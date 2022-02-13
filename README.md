@@ -4,7 +4,8 @@
 - 💪 I’m currently working on a fitness platform for coaches and personal trainers.
 - 💞️ I’m looking to collaborate on any web development projects.
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/a-ri/)
-- ⚡ Fun fact: I was a backend engineer intern while attending 2nd year university full-time (had to study on the weekends 😅)<br><br>
+- ⚡ Fun fact: I was a backend engineer intern while attending 2nd year university full-time (had to study on the weekends 😅)
+- 🏆 Awarded ***Computer Science Graduate of the Year 2018***<br><br>
 
 ## 💻 Languages/Technologies
 <p float="left">
