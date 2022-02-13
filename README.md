@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="35" height="35" />
 </p><br>
 
-## 🛠️ Projects I'm fond of
+## 🛠️ Notable Projects
 ### 1. Discord Bot
 **Description:** Discord bot written in Java to automate and control a game all from my phone using the discord app<br>
 **Screenshots:** [imgur link](https://imgur.com/a/OZTmypN)<br>
