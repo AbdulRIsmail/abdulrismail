@@ -41,7 +41,14 @@ Connect with me [LinkedIn <img src="https://cdn.jsdelivr.net/gh/devicons/devicon
 </p><br>
 
 ## 🏆 Notable Projects
-### 1. Discord Bot
+### Instagram Automation Bot
+![](https://user-images.githubusercontent.com/39646629/153780578-5d6b6160-5959-4d3b-96c6-13823cc05dd9.gif)
+- A CLI tool to grow an Instagram account by engaging with users
+- Managed to grow multiple accounts with total followers of over 30,000 <br>
+- **Screenshots:** [imgur link](https://imgur.com/a/OZTmypN)<br>
+
+
+### 2. Discord Bot
 **Description:** Discord bot written in Java to automate and control a game all from my phone using the discord app<br>
 **Screenshots:** [imgur link](https://imgur.com/a/OZTmypN)<br>
 
