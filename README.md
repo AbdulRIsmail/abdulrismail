@@ -1,11 +1,12 @@
-## Hi there, I'm Abdulrahman! I'm an Aspiring full stack developer with passion in learning new technology. 👋
-- 📖 Currently a final year student in Technological University Dublin.
-- 👀 I’m interested in full stack development.
-- 💪 I’m currently working on a fitness platform for coaches and personal trainers.
-- 💞️ I’m looking to collaborate on any web development projects.
-- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/a-ri/)
-- ⚡ Fun fact: I was a backend engineer intern while attending 2nd year university full-time (had to study on the weekends 😅)
-- 🏆 Awarded ***Computer Science Graduate of the Year 2018***<br><br>
+## Hi there, I'm Abdulrahman... but you can call me Abdul 👋
+- 📖 4th year student currently studying Computer Science in **Technological University Dublin**.
+- 👀 I’m interested in backend / full-stack development and have a passion for learning new technologies.
+- 💪 I’m currently working on a fitness platform for coaches and personal trainers to manage and track their clients.
+- ⚡ Fun fact: I was a backend engineer intern while **attending 2nd year university full-time** (had to study on the weekends 😅)
+- 🏆 Awarded  ***Computer Science Graduate of the Year 2018***
+
+Connect with me [LinkedIn <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" />
+](https://www.linkedin.com/in/a-ri/)<br><br>
 
 ## 💻 Languages/Technologies
 <p float="left">
@@ -50,3 +51,7 @@
 **Screenshots:** [imgur link](https://imgur.com/a/cYOsnOn)<br>
 **Explainer Video:** [youtube link](https://www.youtube.com/watch?v=_EZtRBD2YQI)<br>
 **Demo Video:** [youtube link](https://www.youtube.com/watch?v=fyu02UEmln0&feature=youtu.be)<br>
+
+<!-- [![Explainer Video](https://user-images.githubusercontent.com/39646629/153779065-f6070f2d-695b-41f3-8b4c-0553ebe4fa2d.png)](https://www.youtube.com/watch?v=_EZtRBD2YQI) -->
+
+<!-- <img width="1789" alt="image" src="https://user-images.githubusercontent.com/39646629/153779065-f6070f2d-695b-41f3-8b4c-0553ebe4fa2d.png"> -->
