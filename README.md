@@ -12,14 +12,6 @@
 - **📸 Screenshots:** [imgur link](https://imgur.com/a/OZTmypN)
 <br>
 
-### Discord Bot
-![](https://user-images.githubusercontent.com/39646629/153781218-df95339a-f9f5-4535-9ac8-1a5663f02583.gif)
-- **📝 Description:** Discord bot written in Java
-- Automate and control a game (RuneScape) all from my phone using the discord app
-- **📹 Demo Video:** [youtube link](https://youtu.be/woojPInzuRA)
-- **📸 Screenshots:** [imgur link](https://imgur.com/a/OZTmypN)
-<br>
-
 ### Ecudate
 ![](https://user-images.githubusercontent.com/39646629/153781042-3a20329f-87d3-40da-a01d-f0f3a7f8d2a2.gif)
 - **📝 Description:** A web app to help improve teaching and learning<br>
@@ -27,6 +19,14 @@
 - **📹 Explainer Video:** [youtube link](https://www.youtube.com/watch?v=_EZtRBD2YQI)
 - **📹 Demo Video:** [youtube link](https://www.youtube.com/watch?v=fyu02UEmln0&feature=youtu.be)
 - **📸 Screenshots:** [imgur link](https://imgur.com/a/cYOsnOn)
+<br>
+
+### Discord Bot
+![](https://user-images.githubusercontent.com/39646629/153781218-df95339a-f9f5-4535-9ac8-1a5663f02583.gif)
+- **📝 Description:** Discord bot written in Java
+- Automate and control a game (RuneScape) all from my phone using the discord app
+- **📹 Demo Video:** [youtube link](https://youtu.be/woojPInzuRA)
+- **📸 Screenshots:** [imgur link](https://imgur.com/a/OZTmypN)
 <hr />
 
 **💻 Languages/Technologies**
