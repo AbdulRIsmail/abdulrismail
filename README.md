@@ -8,14 +8,17 @@
 ### Instagram Automation Bot
 ![](https://user-images.githubusercontent.com/39646629/153780578-5d6b6160-5959-4d3b-96c6-13823cc05dd9.gif)
 - **📝 Description:** A CLI tool to grow an Instagram account by engaging with users
+- Would keep track of users it followed to later unfollow after x amount of days
+- Stored all followed user's data (avatar, posts, following, followers etc...) to display it in a table format
 - **🏆 Achievements:** Managed to grow multiple accounts with total followers of over 30,000
 - **📸 Screenshots:** [imgur link](https://imgur.com/a/OZTmypN)
 <br>
 
 ### Ecudate
 ![](https://user-images.githubusercontent.com/39646629/153781042-3a20329f-87d3-40da-a01d-f0f3a7f8d2a2.gif)
-- **📝 Description:** A web app to help improve teaching and learning<br>
-- **👨‍💼 Role:** Co-founded, designed and developed<br>
+- **📝 Description:** An eLearning platform to assist lecturers and students in a classroom environment
+- **👨‍💼 Role:** Co-founded, designed and developed
+- **🏆 Achievements:** Over 1,000 questions asked on the platform
 - **📹 Explainer Video:** [youtube link](https://www.youtube.com/watch?v=_EZtRBD2YQI)
 - **📹 Demo Video:** [youtube link](https://www.youtube.com/watch?v=fyu02UEmln0&feature=youtu.be)
 - **📸 Screenshots:** [imgur link](https://imgur.com/a/cYOsnOn)
