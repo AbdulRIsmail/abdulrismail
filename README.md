@@ -11,7 +11,7 @@
 - Would keep track of users it followed to later unfollow after x amount of days
 - V2 of the bot, I made a React website to show the followed users data (avatar, posts, following, followers etc...) and also run the bot
 - **🏆 Achievements:** Managed to grow multiple accounts with total followers of over 30,000
-- **📸 Screenshots:** [imgur link](https://imgur.com/a/OZTmypN)
+- **📸 Screenshots:** [imgur link](https://imgur.com/a/4EpmS3C)
 <br>
 
 ### Ecudate
