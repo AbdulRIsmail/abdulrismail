@@ -43,22 +43,23 @@ Connect with me [LinkedIn <img src="https://cdn.jsdelivr.net/gh/devicons/devicon
 ## 🏆 Notable Projects
 # Instagram Automation Bot
 ![](https://user-images.githubusercontent.com/39646629/153780578-5d6b6160-5959-4d3b-96c6-13823cc05dd9.gif)
-- A CLI tool to grow an Instagram account by engaging with users
-- Managed to grow multiple accounts with total followers of over 30,000
-- **Screenshots:** [imgur link](https://imgur.com/a/OZTmypN)
+- **📝 Description:** A CLI tool to grow an Instagram account by engaging with users
+- **🏆 Achievements:** Managed to grow multiple accounts with total followers of over 30,000
+- **📸 Screenshots:** [imgur link](https://imgur.com/a/OZTmypN)
 
 # Discord Bot
 ![](https://user-images.githubusercontent.com/39646629/153781218-df95339a-f9f5-4535-9ac8-1a5663f02583.gif)
-- Description: Discord bot written in Java to automate and control a game all from my phone using the discord app
-- **Screenshots:** [imgur link](https://imgur.com/a/OZTmypN)<br>
+- **📝 Description:** Discord bot written in Java to automate and control a game (RuneScape) all from my phone using the discord app
+- **📹 Demo Video:** [youtube link](https://youtu.be/woojPInzuRA)
+- **📸 Screenshots:** [imgur link](https://imgur.com/a/OZTmypN)
 
 # Ecudate
 ![](https://user-images.githubusercontent.com/39646629/153781042-3a20329f-87d3-40da-a01d-f0f3a7f8d2a2.gif)
-- Description: A web app to help improve teaching and learning<br>
-- Role: Co-founded, designed and developed<br>
-- Screenshots: [imgur link](https://imgur.com/a/cYOsnOn)<br>
-- Explainer Video: [youtube link](https://www.youtube.com/watch?v=_EZtRBD2YQI)<br>
-- Demo Video: [youtube link](https://www.youtube.com/watch?v=fyu02UEmln0&feature=youtu.be)<br>
+- **📝 Description:** A web app to help improve teaching and learning<br>
+- **👨‍💼 Role:** Co-founded, designed and developed<br>
+- **📹 Explainer Video:** [youtube link](https://www.youtube.com/watch?v=_EZtRBD2YQI)
+- **📹 Demo Video:** [youtube link](https://www.youtube.com/watch?v=fyu02UEmln0&feature=youtu.be)
+- **📸 Screenshots:** [imgur link](https://imgur.com/a/cYOsnOn)
 
 <!-- [![Explainer Video](https://user-images.githubusercontent.com/39646629/153779065-f6070f2d-695b-41f3-8b4c-0553ebe4fa2d.png)](https://www.youtube.com/watch?v=_EZtRBD2YQI) -->
 
