@@ -10,6 +10,7 @@
 - **📝 Description:** A CLI tool to grow an Instagram account by engaging with users built using [puppeteer](https://www.npmjs.com/package/puppeteer) and [gulp](https://www.npmjs.com/package/gulp)
 - Would keep track of users it followed to later unfollow after x amount of days
 - V2 of the bot, I made a React website to show the followed users data (avatar, posts, following, followers etc...) and also run the bot
+- **🧱 Stack:** React, MongoDB, NodeJS, ExpressJS, Puppeteer, Gulp (for CLI)
 - **🏆 Achievements:** Managed to grow multiple accounts with total followers of over 30,000
 - **📸 Screenshots:** [imgur link](https://imgur.com/a/4EpmS3C)
 <br>
@@ -28,8 +29,19 @@
 ![](https://user-images.githubusercontent.com/39646629/153781218-df95339a-f9f5-4535-9ac8-1a5663f02583.gif)
 - **📝 Description:** Discord bot written in Java
 - Automate and control a game ([RuneScape](https://oldschool.runescape.com/)) all from my phone using the discord app
+- **🧱 Stack:** Java, [Discord API](https://discord.com/developers/docs/reference), [SimpleBot API](https://simplebot.org/docs/)
 - **📹 Demo Video:** [youtube link](https://youtu.be/woojPInzuRA)
 - **📸 Screenshots:** [imgur link](https://imgur.com/a/OZTmypN)
+<br>
+
+### Car Now
+![](https://user-images.githubusercontent.com/39646629/153852089-a66f6ff2-5abd-434c-8b6d-7430874f5255.gif)
+- **📝 Description:** An app to buy and sell cars built using [React Native](https://reactnative.dev/)
+- Fully functional app works on both IOS & Android
+- **Features:** search and filter listings, post a new listing, bookmark listings, message sellers via WhatsApp, view your listings
+- **🧱 Stack:** React-Native, NodeJS, ExpressJS, Redux, AWS EC2/S3, MongoDB, Trello
+- **📹 Demo Video:** *will update soon*
+- **📸 Screenshots:** *will update soon*
 <hr />
 
 **💻 Languages/Technologies**
