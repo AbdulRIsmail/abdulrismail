@@ -7,9 +7,9 @@
 # 🏆 Notable Projects
 ### Instagram Automation Bot
 ![](https://user-images.githubusercontent.com/39646629/153780578-5d6b6160-5959-4d3b-96c6-13823cc05dd9.gif)
-- **📝 Description:** A CLI tool to grow an Instagram account by engaging with users
+- **📝 Description:** A CLI tool to grow an Instagram account by engaging with users built using [puppeteer](https://www.npmjs.com/package/puppeteer) and [gulp](https://www.npmjs.com/package/gulp)
 - Would keep track of users it followed to later unfollow after x amount of days
-- Stored all followed user's data (avatar, posts, following, followers etc...) to display it in a table format
+- V2 of the bot, I made a React website to show the followed users data (avatar, posts, following, followers etc...) and also run the bot
 - **🏆 Achievements:** Managed to grow multiple accounts with total followers of over 30,000
 - **📸 Screenshots:** [imgur link](https://imgur.com/a/OZTmypN)
 <br>
@@ -27,7 +27,7 @@
 ### Discord Bot
 ![](https://user-images.githubusercontent.com/39646629/153781218-df95339a-f9f5-4535-9ac8-1a5663f02583.gif)
 - **📝 Description:** Discord bot written in Java
-- Automate and control a game (RuneScape) all from my phone using the discord app
+- Automate and control a game ([RuneScape](https://oldschool.runescape.com/)) all from my phone using the discord app
 - **📹 Demo Video:** [youtube link](https://youtu.be/woojPInzuRA)
 - **📸 Screenshots:** [imgur link](https://imgur.com/a/OZTmypN)
 <hr />
