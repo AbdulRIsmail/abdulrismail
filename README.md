@@ -60,7 +60,7 @@
 - **🏆 Achievements:** 
   * Leveled up most of my skills to max without getting detected
   * Made some revenue by making money in-game and selling it
-- **🧱 Stack:** Java, JDA ([Java Discord API](https://github.com/DV8FromTheWorld/JDA)), [SimpleBot API](https://simplebot.org/docs/)
+- **🧱 Stack:** Java, JDA ([Java Discord API](https://github.com/DV8FromTheWorld/JDA)), [Dreambot API](https://dreambot.org/javadocs/index.html?overview-summary.html)
 - **📹 Demo Video:** [youtube link](https://youtu.be/woojPInzuRA)
 - **📸 Screenshots:** [imgur link](https://imgur.com/a/OZTmypN)
 <br>
