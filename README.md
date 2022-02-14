@@ -10,8 +10,8 @@
 - **📝 Description:** A CLI tool to grow an Instagram account by engaging with users built using [puppeteer](https://www.npmjs.com/package/puppeteer) and [gulp](https://www.npmjs.com/package/gulp)
 - Would keep track of users it followed to later unfollow after x amount of days
 - V2 of the bot, I made a React website to show the followed users data (avatar, posts, following, followers etc...) and also run the bot
-- **🧱 Stack:** React, MongoDB, NodeJS, ExpressJS, Puppeteer, Gulp (for CLI)
 - **🏆 Achievements:** Managed to grow multiple accounts with total followers of over 30,000
+- **🧱 Stack:** React, MongoDB, NodeJS, ExpressJS, Puppeteer, Gulp (for CLI)
 - **📸 Screenshots:** [imgur link](https://imgur.com/a/4EpmS3C)
 <br>
 
@@ -20,6 +20,7 @@
 - **📝 Description:** An eLearning platform to assist lecturers and students in a classroom environment
 - **👨‍💼 Role:** Co-founded, designed and developed
 - **🏆 Achievements:** Over 1,000 questions asked on the platform
+- **🧱 Stack:** React, NodeJS, ExpressJS, Redux, AWS EC2/S3, MongoDB, Trello, Less, Google Analytics
 - **📹 Explainer Video:** [youtube link](https://www.youtube.com/watch?v=_EZtRBD2YQI)
 - **📹 Demo Video:** [youtube link](https://www.youtube.com/watch?v=fyu02UEmln0&feature=youtu.be)
 - **📸 Screenshots:** [imgur link](https://imgur.com/a/cYOsnOn)
