@@ -24,6 +24,8 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="20" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+<hr>
+
 # 🏆 Notable Projects
 ### Instagram Automation Bot
 ![](https://user-images.githubusercontent.com/39646629/153780578-5d6b6160-5959-4d3b-96c6-13823cc05dd9.gif)
