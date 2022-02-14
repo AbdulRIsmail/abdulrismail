@@ -1,12 +1,8 @@
 # Hey there, I'm Abdulrahman... but you can call me Abdul 👋
 - 📚 4th year student currently studying Computer Science in **Technological University Dublin**
 - 🤗 I’m interested in backend / full-stack development
-- ❤️ Passion for learning new technologies & frameworks and expanding my knowledge daily
 - ⚡ Fun fact: Backend engineer intern while **attending 2nd year university full-time**
 - 🏆 Awarded  ***Computer Science Graduate of the Year 2018***
-
-**Connect with me [LinkedIn <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" />
-](https://www.linkedin.com/in/a-ri/)**<br><br>
 
 # 🏆 Notable Projects
 ### Instagram Automation Bot
