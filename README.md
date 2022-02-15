@@ -1,6 +1,6 @@
 # Hey there, I'm Abdulrahman... but you can call me Abdul 👋
 - 📚 4th year student currently studying Computer Science in **Technological University Dublin**
-- 🤗 I’m interested in backend / full-stack development
+- 🔨 Aspiring backend / full-stack developer.
 - ⚡ Fun fact: Backend engineer intern while **attending 2nd year university full-time**
 - 🏆 Awarded  ***Computer Science Graduate of the Year 2018***
 
